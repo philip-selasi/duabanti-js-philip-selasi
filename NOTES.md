@@ -1,3 +1,5 @@
+# WEEK 02 CONVERTER
+
 ### What I built
 I built week02-converter.js that converts GHC to USD.
 
@@ -6,3 +8,20 @@ I got stuck on how to use the 'return' function in general. And how to create an
 
 ### Did I use AI, and how?
 Yes, I used AI to explain the difference between commit and push and how to clone my repo. Furthermore I used AI to learm the 'return' fuction because I got stuck on how to use it.
+
+# Week 3 — Grade Calculator
+
+## What I built
+I built a JavaScript grade calculator that calculates
+the average of a list of scores, assigns letter grades,
+checks score validity, and counts passes and failures.
+
+## What got me stuck
+I had to understand how to combine functions,
+conditional statements, loops, and arrays to process
+multiple scores correctly.
+
+## Did I use AI?
+Yes. I used ChatGPT to help me understand the
+requirements, build the program, and learn how the
+different parts work.
